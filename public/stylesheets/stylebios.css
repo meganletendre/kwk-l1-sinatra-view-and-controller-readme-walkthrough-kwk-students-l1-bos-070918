@@ -1,0 +1,127 @@
+body{background-color: #737373;}
+
+.header {
+  text-align: center;
+  background-color: #d9d9d9;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  }
+
+.column {
+  float: left;
+  width: 23.55%;
+  padding: 10px;
+}
+
+.twitter {
+    display: block;
+    width: 50%;
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 300px;
+}
+
+.rcorners1 {
+    border-radius: 25px;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+
+.bio {
+  color: #000000;
+  text-align: center;
+  font-size: 27px;
+  font-family: 'Oswald', sans-serif;
+}
+.contestantsheader {
+  color: white;
+  margin-left: 44%;
+  font-size: 50px
+   font-family: 'Oswald', sans-serif;
+}
+
+.contestants {
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+.contestantsdean {
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+.contestantschad{
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+.contestantsdaniel{
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+.contestantscorrine{
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+.contestantskristina{
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+.contestantsalexis{
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+.contestantsbekah{
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.facts {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+}
+
+.img {
+  text-align: center;
+  margin-left: 17%;
+  margin-right: 30%;
+  float: center;
+  width: 50%;
+  padding-left: 9%;
+}
+
+.couplesKS{
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+  margin-left: 5%;
+}
+
+.couplesimg {
+  text-align: center;
+  float: center;
+  width: 50%;
+  padding-left: 26%;
+}

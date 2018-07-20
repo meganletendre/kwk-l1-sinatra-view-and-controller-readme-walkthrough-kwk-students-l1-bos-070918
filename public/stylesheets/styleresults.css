@@ -1,0 +1,24 @@
+body{background-color: #737373;}
+
+.img {
+  text-align: center;
+  margin-left: 19%;
+  margin-right: 30%;
+  float: center;
+  width: 50%;
+  padding-left: 9%;
+}
+
+.facts {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+}
+.headerFont{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  margin-left: 40px;
+  font-family: 'Oswald', sans-serif;
+}

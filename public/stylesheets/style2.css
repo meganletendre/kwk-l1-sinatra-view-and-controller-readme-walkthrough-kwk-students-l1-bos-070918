@@ -1,0 +1,119 @@
+body{background-color: #000000;}
+
+.header {
+  text-align: center;
+  background-color: white;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  font-size: 45px;
+  color: #000000;
+  font-style: bold;
+  }
+
+.column {
+  float: left;
+  width: 23.55%;
+  padding: 10px;
+}
+
+.twitter {
+    display: block;
+    width: 50%;
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 300px;
+}
+
+.rcorners1 {
+    border-radius: 25px;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+
+.bio {
+  color: #ff0000;
+  text-align: center;
+  font-size: 29px;
+}
+.contestantsheader {
+  color: white;
+  margin-left: 5%;
+  font-size: 30px
+}
+
+.contestants {
+  color: #ff0000;;
+  font-size: 27px;
+  font-style: bold;
+  margin-left: 10%;
+}
+.contestantsdean {
+  color: #ff0000;
+  font-size: 27px;
+  font-style: bold;
+  margin-left: 9%;
+}
+.contestantschad{
+  color: #ff0000;;
+  font-size: 27px;
+  font-style: bold;
+  margin-left: 9%;
+}
+.contestantsdaniel{
+  color: #ff0000;;
+  font-size: 27px;
+  font-style: bold;
+  margin-left: 8%;
+}
+.contestantscorrine{
+  color: #ff0000;;
+  font-size: 27px;
+  font-style: bold;
+  margin-left: 7%;
+}
+.contestantskristina{
+  color: #ff0000;;
+  font-size: 27px;
+  font-style: bold;
+  margin-left: 7%;
+}
+.contestantsalexis{
+  color: #ff0000;
+  font-size: 27px;
+  font-style: bold;
+  margin-left: 9%;
+}
+.contestantsbekah{
+  color: #ff0000;
+  font-size: 27px;
+  font-style: bold;
+  margin-left: 8%;
+}
+
+.facts {
+  margin-left: 7%;
+  font-size: 19px;
+  color: #ff0000;
+}
+
+.img {
+  float: center;
+  width: 10%;
+  padding-left: 9%;
+}
+
+.couplesKS{
+  color: #ff0000;
+  font-size: 30px;
+  font-style: bold;
+  margin-left: 5%;
+}
+
+.couplesimg {
+  float: center;
+  width: 15%;
+  padding-left: 9%;
+}
